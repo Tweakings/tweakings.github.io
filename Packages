@@ -1,3 +1,34 @@
+Package: com.tweakingsdev.hydrogen
+Version: 0.777
+Architecture: iphoneos-arm
+Maintainer: creativeBeing <tweakingsdev@gmail.com>
+Installed-Size: 1116
+Depends: mobilesubstrate
+Filename: ./debs/com.tweakingsdev.hydrogen_0.777_iphoneos-arm.deb
+Size: 573224
+MD5sum: b1eac885f1f659d9275fc8eefb474c8d
+SHA1: 929b24f409d56f84af8fe8cf92ede89fadb03b31
+SHA256: 301a4473bbebb7c199bc04f3fa8de11143c7c98bbf30768caae34d0bbfaa586d
+Section: Tweaks
+Description: Ultimate Signal & Data Icon Customization!
+Author: creativeBeing <tweakingsdev@gmail.com>
+Name: Hydrogen
+
+Package: com.tweakingsdev.ion9lpm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: creativeBeing <tweakingsdev@gmail.com>
+Depends: com.tweakingsdev.lithiumion
+Filename: ./debs/com.tweakingsdev.ion9lpm_1.0_iphoneos-arm.deb
+Size: 1462
+MD5sum: 1c4ac7003c70d5c11a3c562afc37af1c
+SHA1: 52a70fb623b3f847eaf51977d5159027551f14ab
+SHA256: a34ecff654ede22f8c094647f59b2e4be54f0a19745737c8ac3fd37168e44375
+Section: Tweaks
+Description: Default iOS 9 Battery With ! On LPM
+Author: creativeBeing <tweakingsdev@gmail.com>
+Name: iOS 9 - LPM Theme
+
 Package: com.tweakingsdev.ionkitkat
 Version: 1.1
 Architecture: iphoneos-arm
